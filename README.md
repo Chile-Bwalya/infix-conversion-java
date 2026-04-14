@@ -1,2 +1,13 @@
-# infix-conversion-java
-java program for infix to postfix and prefix conversion
+# Infix Expression Conversion
+
+This project converts infix expressions into:
+- Postfix
+- Prefix
+
+## Contents
+- Workflow
+- Pseudocode
+- Java Implementation
+
+## Author
+Chile Bwalya
